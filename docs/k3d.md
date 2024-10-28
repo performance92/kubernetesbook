@@ -55,7 +55,7 @@ Sizde yukarıdaki resimdeki gibi bir çıktı aldıysanız kurulumu başarılı 
 
 Versiyon kontrolü için bu komutu girin:
 ```
-$ k3d --verison
+$ k3d --version
 ```
 
 ## 1.4 K3D Komutları
